@@ -1,0 +1,23 @@
+{
+  "name": "Freifunk Herzogtum Lauenburg",
+  "url": "http://herzogtum.freifunk.net",
+  "location": {
+    "city": "Herzogtum Lauenburg",
+    "country": "DE",
+    "lat": 53.524934961060474,
+    "lon": 10.5633544921875
+  },
+  "contact": {
+    "email": "freifunk.herzogtum@freenet.de"
+  },
+  "state": {
+    "lastchange": "2015-08-24T16:14:29.450Z",
+    "focus": []
+  },
+  "api": "0.4.8",
+  "techDetails": {
+    "routing": [],
+    "updatemode": [],
+    "legals": []
+  }
+}
